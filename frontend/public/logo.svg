@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#0F172A"/>
+  <!-- Karnataka dual color accents -->
+  <path d="M6 10 C6 7.79 7.79 6 10 6 L38 6 C40.21 6 42 7.79 42 10 L42 12 L6 12 Z" fill="#B91C1C"/>
+  <path d="M6 12 L42 12 L42 14 L6 14 Z" fill="#D97706"/>
+  <!-- Civic pillars / chart icon -->
+  <rect x="12" y="24" width="5" height="14" rx="1.5" fill="#F59E0B"/>
+  <rect x="21" y="18" width="5" height="20" rx="1.5" fill="#38BDF8"/>
+  <rect x="30" y="28" width="5" height="10" rx="1.5" fill="#10B981"/>
+  <!-- AI sparkle dot -->
+  <circle cx="34" cy="18" r="3" fill="#F43F5E"/>
+</svg>
